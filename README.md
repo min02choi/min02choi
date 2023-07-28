@@ -1,10 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Min%20Young's%20Github&fontSize=70" />
 
-<center>
+<div align="center">
+ 
+  ![Solved.ac
+min02choi](http://mazassumnida.wtf/api/v2/generate_badge?boj=min02choi)
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Min%20Young's%20GitHub%20Blog-black?style=flat&logo=github&link=https://min02choi.github.io/)](https://min02choi.github.io/)
+ 
+</div>
+
+
+<!-- <center>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min02choi)](https://solved.ac/min02choi)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Min%20Young's%20GitHub%20Blog-black?style=flat&logo=github&link=https://min02choi.github.io/)](https://min02choi.github.io/)
-</center>
+</center> -->
 
 <!-- <a href="https://min02choi.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
