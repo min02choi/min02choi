@@ -5,7 +5,7 @@
   ![Solved.ac
 min02choi](http://mazassumnida.wtf/api/v2/generate_badge?boj=min02choi)
 
-My Personal Blog!
+<strong>My Personal Blog!</strong> <br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Min%20Young's%20GitHub%20Blog-black?style=flat&logo=github&link=https://min02choi.github.io/)](https://min02choi.github.io/)
  
 </div>
