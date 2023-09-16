@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Min%20Young's%20GitHub&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B728A&height=300&section=header&text=Min%20Young's%20GitHub&fontSize=70" />
 
 <div align="center">
  
@@ -8,7 +8,7 @@ min02choi](http://mazassumnida.wtf/api/v2/generate_badge?boj=min02choi)
 <br>
 <strong>✨ My Personal Blog! ✨</strong> <br>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Min%20Young's%20GitHub%20Blog-black?style=flat&logo=github&link=https://min02choi.github.io/)](https://min02choi.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Min%20Young's%20GitHub%20Blog-black?style=flt&logo=github&link=https://min02choi.github.io/)](https://min02choi.github.io/)
  
 </div>
 
