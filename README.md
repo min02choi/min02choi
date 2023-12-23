@@ -9,6 +9,8 @@ min02choi](http://mazassumnida.wtf/api/v2/generate_badge?boj=min02choi)
 <strong>✨ My Personal Blog! ✨</strong> <br>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Min%20Young's%20GitHub%20Blog-black?style=flt&logo=github&link=https://min02choi.github.io/)](https://min02choi.github.io/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
  
 </div>
 
