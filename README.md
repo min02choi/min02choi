@@ -7,11 +7,11 @@ min02choi](http://mazassumnida.wtf/api/v2/generate_badge?boj=min02choi)
 
 <br>
 <div>
-    <strong>🛠️ Once I've Used 🛠️</strong>
+    <strong>🛠️ Once I've Used 🛠️</strong> <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 </div>
-<br>
+<br> <br>
 
 <strong>✨ My Personal Blog! ✨</strong> <br>
 
